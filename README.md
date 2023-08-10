@@ -32,7 +32,6 @@ Para a configuração do projeto no seu ambiente local, algumas etapas precisam 
 
 3. Faça a importação do banco de dados que se localiza na pasta dump do projeto. 
 
-.
 
 ## Dependências e suas versões
 - Python 3.11
